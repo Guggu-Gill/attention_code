@@ -1,4 +1,4 @@
-# attention_code
+# BERT_Preprocessing_code
 1. This contains pre-processing function of encoding text using BERT_LARGE
 2. It automatically detects suitable hardware accelerator according to architecture of machine
    
